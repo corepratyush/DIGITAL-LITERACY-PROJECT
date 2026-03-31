@@ -7,17 +7,4 @@ In a typical phishing attack, a user receives a message that appears to be from 
 Students and online users are common targets because they may not always verify the authenticity of such messages. The consequences of phishing can include financial loss, identity theft, and unauthorized access to accounts.
 
 This type of cybercrime highlights the importance of being cautious while using the internet and verifying sources before sharing any sensitive information.
-Prevention Checklist
-Use strong and unique passwords
-Do not click on unknown links
-Verify website URLs before entering data
-Enable two-factor authentication
-Never share OTPs with anyone
-Regularly update passwords
-Avoid using public Wi-Fi for transactions
-Monitor bank account activity regularly
 
-Report Cybercrime:
-
-Website: cybercrime.gov.in
-Helpline: 1930
