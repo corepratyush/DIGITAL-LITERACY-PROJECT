@@ -72,7 +72,7 @@ Through this project, I learned:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project enhanced my understanding of responsible digital behavior and equipped me with essential skills for navigating the digital world effectively.
 
 ---
